@@ -5,9 +5,9 @@ Const.useMlab = false;
 //Live
 // Const.botToken = "机器人ID";
 //Debug
-Const.botToken = "机器人ID";
+Const.botToken = "925816143:AAGvNZL6dCjRnKpBBHrJhJ_jN9Ura_rEQ9c";
 Const.myId = parseInt(Const.botToken.split(":")[0]);
-Const.myName = "机器人的username";
+Const.myName = "mbitesting_bot";
 Const.myName = Const.myName.toLowerCase();
 
 //以下是峰哥的数据库服务器，可以工作，可以用，没有数据库的可以保留
